@@ -1,0 +1,21 @@
+.square {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: #222;
+}
+
+.grid {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: row wrap;
+    width: 624px;
+    height: 624px;
+}
+
+.mole{
+    background-image: url(../png-transparent-whac-a-mole-crappy-flappy-moles-android-video-game-android-mammal-carnivoran-vertebrate.png);
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+}
